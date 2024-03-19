@@ -5,7 +5,7 @@ In the early stages of development, Rockstar planned to introduce impound lots t
 These bugs are partially fixed by SilentPatch. However, this mod completely overhauls this gameplay feature.
 
 
-# Features of the mod
+# Features
 
 - Now only the protagonist's personal vehicle can get to the impound lot. By personal, we mean vehicles that were previously stored in the garage of any safehouse.
 - After your vehicle is impounded, you will receive a notification and the impound lot icon will appear near the police station.
